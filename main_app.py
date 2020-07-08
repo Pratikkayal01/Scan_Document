@@ -120,4 +120,4 @@ def download(id):
 
 
 if __name__ == "__main__":
-    app.run(host = 'localhost',port=5005,debug=False)
+    app.run()
